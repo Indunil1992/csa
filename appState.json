@@ -1,0 +1,69 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "8e81092e-8ad4-4f50-9964-3144726924f7": {
+        "id": "8e81092e-8ad4-4f50-9964-3144726924f7",
+        "parent": null,
+        "name": "csa.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "csa.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 48
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "csa"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "8e81092e-8ad4-4f50-9964-3144726924f7"
+    ],
+    "currentFileId": "8e81092e-8ad4-4f50-9964-3144726924f7",
+    "resources": {},
+    "customTemplate": {
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "csa",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1585812529682
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "csa",
+      "url": "https://github.com/Indunil1992/csa"
+    }
+  }
+}
